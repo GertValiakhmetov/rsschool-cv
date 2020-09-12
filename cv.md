@@ -7,12 +7,11 @@
 <img src="https://cdn.iconscout.com/icon/free/png-256/discord-1-555369.png" alt="" width="25" height="25"/>  - Gert#2332  
 <img src="https://www.pinpng.com/pngs/m/19-198329_github-octocat-vector-png-pluspng-transparent-small-github.png" alt="" width="25" height="25"/> - [GertValiakhmetov](https://github.com/GertValiakhmetov)
  
- ## **Summary**
- 
+## **Summary**
+
  My initial goal was to get a junior front-end developer position in a good and friendly company. At the moment I am making every effort to make this happen in reality.
- 
- 
- ## **Skills**
+
+## **Skills**
  
  HTML, CSS, SASS, Javascript, React, Redux, Reactstrap, Styled Components, WebStorm
 
@@ -51,3 +50,6 @@
         </ul>
       );
     }; 
+## **Experience**
+
+Projects from Yuri Bura's courses, some projects from RS School courses.
