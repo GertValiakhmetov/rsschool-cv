@@ -1,0 +1,33 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@500;700;900&display=swap');
+
+.container {
+    font-family: "Roboto Slab", sans-serif;
+    margin: auto;
+    max-width: 1024px;
+    padding: 0;
+}
+.contact {
+    display: flex;
+}
+.contact > p, a {
+    margin: 0;
+    padding: 6px;
+    text-decoration: none;
+}
+.contact > a {
+    color: blue;
+}
+.contact > a:hover {
+    color: black;
+}
+.avatar {
+    position: absolute;
+    margin: -140px 0 0 655px;
+}
+.contact-info {
+    display: flex;
+    justify-content: space-between;
+}
+.contact-container {
+    height: 135px;
+}
